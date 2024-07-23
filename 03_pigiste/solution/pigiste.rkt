@@ -8,7 +8,7 @@
 ;; Valeurs d'entrée
 
 (define workhours-per-day 8)
-(define hourly-rate 100)
+(define hourly-rate 75)
 
 ;; ----------------------------------------------------------------------
 ;; Variables auxiliaires
