@@ -5,9 +5,12 @@ mettre au pluriel un mot français. Les règles suivantes doivent être
 respectées :
 
 -   Pour mettre au pluriel un mot dont les deux dernières lettres sont 
-    « al » ou « il », remplacez le « l » final par les lettres « ux ».
-    Par exemple, « animal » donne « animaux », et « vitrail » donne
-    « vitraux ».
+    « al », remplacez le « l » final par les lettres « ux ».
+    Par exemple, « animal » donne « animaux ».
+
+-   Pour mettre au pluriel un mot dont les deux dernières lettres sont 
+    « il », remplacez « il » par « ux ». Par exemple, « vitrail » 
+    donne « vitraux ».
 
 -   Pour mettre au pluriel un mot dont les deux dernières lettres sont
     soit « au », « eu », ou « ou », ajoutez la lettre « x » à la fin du
